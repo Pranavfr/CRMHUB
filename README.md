@@ -1,2 +1,2 @@
 # CRMHUB
-my first github project
+Customer relationship management system
